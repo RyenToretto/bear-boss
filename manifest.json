@@ -1,0 +1,8 @@
+{
+  "subpackages":[
+    {
+      "name":"splash",
+      "resource":"splash"
+    }
+  ]
+}
